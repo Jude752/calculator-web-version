@@ -1,6 +1,5 @@
-# Advanced Calculator
-
-This is an advanced calculator web application that supports various mathematical operations, unit conversion, custom functions, and a calculation history log.
+# calculator-web-version
+A calculator web application that supports various mathematical operations, unit conversion, custom functions, and a calculation history log.
 
 ## Features
 
